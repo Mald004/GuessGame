@@ -6,7 +6,7 @@ public class ComputerThinker implements IThinker
 
 	public void yourTurn()
 	{}
-
+//hey
 	public String getName()
 	{
 		return "Computer thinker";
