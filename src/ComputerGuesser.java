@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//This is a  computerguesser
 public class ComputerGuesser implements IGuesser
 {
 Random random = new Random();
